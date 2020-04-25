@@ -1,0 +1,13 @@
+# Define Stock Tickers to collect data on
+tickers:
+  - SQ
+  - MSFT
+  - TWLO
+  - SPLK
+  - FB
+  - SNAP
+  - NPI.TO
+  - BYL.TO
+  - NOK
+  - TSLA
+  - GILD
