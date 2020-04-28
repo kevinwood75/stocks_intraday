@@ -5,8 +5,6 @@ services:
    image: kwood475/stockintraday:1.0.0
    build:
      context: .
-   ports:
-     - "8041:8041"
    volumes:
      - ./app:/app
    command: >
