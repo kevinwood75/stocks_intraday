@@ -8,4 +8,4 @@ services:
    volumes:
      - ./app:/app
    command: >
-     sh -c "python collect_stock_data.py"
+     sh -c "pip freeze && python collect_stock_data.py"

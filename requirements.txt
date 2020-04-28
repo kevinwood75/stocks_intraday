@@ -1,4 +1,3 @@
 python-dateutil
-yaml
 requests
 urllib3
